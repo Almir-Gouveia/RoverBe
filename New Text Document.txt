@@ -1,0 +1,31 @@
+25/06
+	inicio conversa
+
+Next Steps
+	Desenhos
+		Desenho rodas
+		Desenho estrutura Suspensão
+		Desenho chassis
+	Eletronica
+		Controle Motor tração
+		Controle Motor direção
+		Contrle Joystick
+	Mecânica
+		Definido
+			Banco de BikeKid 
+		Pesquisar
+			Buchas suspensão
+			Rolamentos Direção
+			Dimensões máximas X estabilidade
+			Modular
+	Docs
+		Blog
+		Github
+		YouTube
+		instagram
+
+
+		
+
+	
+	
